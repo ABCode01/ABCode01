@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ABCode01, This repo is for all python and sql code requied for data - analyst, engineer & scientist
+- 👋 Hi, I’m @ABCode01, This repo will contain helpful python and sql code that will benefit current and aspiring data - analyst, engineer & scientist
 - 👀 It's fairly new so there is not much here but hope it grows
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on fun projects involving python code for building data pipeline and analysis 
